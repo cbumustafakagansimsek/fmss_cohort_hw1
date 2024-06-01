@@ -18,7 +18,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```
-https://github.com/
+git clone https://github.com/cbumustafakagansimsek/fmss_cohort_hw1.git
 ```
 ### Usage
 
