@@ -1,4 +1,4 @@
-# HW1_KonutTipleriApp
+# fmss_cohort_hw1
  Patika.dev FMSS Bilişim Teknoloji Fullstack Web Bootcamp second week, first homework
 
 
