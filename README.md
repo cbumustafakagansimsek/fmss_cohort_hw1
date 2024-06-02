@@ -34,3 +34,4 @@ mvn compile
 ```
 mvn exec:java -Dexec.mainClass=org.example.Main
 ```
+Or you can use editor
